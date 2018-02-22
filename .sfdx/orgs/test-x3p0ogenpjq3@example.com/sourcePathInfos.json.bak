@@ -1,0 +1,207 @@
+[
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app",
+        {
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519276037424,
+            "changeTime": 1519276037424,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main",
+        {
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519276037424,
+            "changeTime": 1519276037424,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519276037424,
+            "changeTime": 1519276037424,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519276037424,
+            "changeTime": 1519276037424,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo",
+        {
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519276774895,
+            "changeTime": 1519276774895,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord",
+        {
+            "state": "u",
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519277526611,
+            "changeTime": 1519277526611,
+            "contentHash": "65b541ac5bae6f029b3bb16c31a219a38f96079b"
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1519277526609,
+            "changeTime": 1519277526609,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp",
+        {
+            "state": "u",
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 93,
+            "modifiedTime": 1519277655257,
+            "changeTime": 1519277655257,
+            "contentHash": "484a81a4912c87010da6ef89adc370fdce2d2f11"
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1519277526593,
+            "changeTime": 1519277526593,
+            "contentHash": "340be5447e02f72a74644c393699b647b9651294"
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.css",
+        {
+            "state": "u",
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1519277526602,
+            "changeTime": 1519277526602,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.design",
+        {
+            "state": "u",
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1519277526612,
+            "changeTime": 1519277526612,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.svg",
+        {
+            "state": "u",
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1519277526607,
+            "changeTime": 1519277526607,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWordController.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWordController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1519277526596,
+            "changeTime": 1519277526596,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWordHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWordHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1519277526599,
+            "changeTime": 1519277526599,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWordRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\SFS Workspace\\slds_demo\\lightningdemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWordRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1519277526604,
+            "changeTime": 1519277526604,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ]
+]

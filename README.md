@@ -1,2 +1,14 @@
-# my_sfdx_project
-First Project on Salesforce DX..
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
